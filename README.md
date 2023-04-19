@@ -11,3 +11,4 @@ peek and poke opearations on bytearrays are supported.
 lock and unlock of write is supported
 simple fast search function has been started, more work will be done
 
+The FRAM chip spec: https://cdn-shop.adafruit.com/product-files/4718/4718_MB85RS2MTA.pdf
